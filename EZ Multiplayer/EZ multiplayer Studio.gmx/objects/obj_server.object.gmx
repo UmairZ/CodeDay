@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>net_init("dll_39dll.dll",true);
 
-net_server_start(7676,10);
+net_server_start(7676,4);
 
 instance_create(0,0,obj_client);
 </string>
