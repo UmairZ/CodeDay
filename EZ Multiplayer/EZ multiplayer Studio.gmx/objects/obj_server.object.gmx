@@ -52,7 +52,12 @@ instance_create(0,0,obj_client);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>net_server_update();
+            <string>net_client_update();
+
+GLOBAL.ids = 0;
+for (i = 0; i &lt; 4; i++){
+    ideds[i] = ids;
+}
 </string>
           </argument>
         </arguments>

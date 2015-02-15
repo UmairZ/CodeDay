@@ -25,32 +25,32 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>net_client_update();
+            <string>//net_client_update();
 
-if (string(net_client_get(3,1)) == string("up")){
-    y -= 5;
-} else {
-    y -= 0;
-    y += 0;
-}
-if (string(net_client_get(4,1)) == string("right")){
-    x += 5;
-} else {
-    x -= 0;
-    x += 0;
-}
-if (string(net_client_get(5,1)) == string("left")){
-    x -= 5;
-} else {
-    x -= 0;
-    x += 0;
-}
-if (string(net_client_get(6,1)) == string("down")){
-    y += 5;
-} else {
-    y -= 0;
-    y += 0;
-}
+//if (string(net_client_get(3,1)) == string("up")){
+//    y -= 5;
+//} else {
+//    y -= 0;
+ //   y += 0;
+//}
+//if (string(net_client_get(4,1)) == string("right")){
+//    x += 5;
+//} else {
+//    x -= 0;
+//    x += 0;
+//}
+//if (string(net_client_get(5,1)) == string("left")){
+//    x -= 5;
+//} else {
+//    x -= 0;
+ //   x += 0;
+//}
+//if (string(net_client_get(6,1)) == string("down")){
+ //   y += 5;
+//} else {
+ //   y -= 0;
+//    y += 0;
+//}
 </string>
           </argument>
         </arguments>
