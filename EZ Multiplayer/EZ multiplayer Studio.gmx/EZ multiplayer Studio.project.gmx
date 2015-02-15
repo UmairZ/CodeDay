@@ -23,7 +23,7 @@
     </datafile>
   </datafiles>
   <NewExtensions>
-    <extension index="1">extensions\EZMultiplayer Custom 1.2</extension>
+    <extension index="0">extensions\EZMultiplayer Custom 1.2</extension>
   </NewExtensions>
   <sounds name="sound"/>
   <sprites name="sprites">
