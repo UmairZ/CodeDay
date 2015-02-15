@@ -20,6 +20,6 @@
   <width>256</width>
   <height>256</height>
   <frames>
-    <frame index="0">images\sprite_asteroid1_0.png</frame>
+    <frame index="0">images\spr_asteroid1_0.png</frame>
   </frames>
 </sprite>
