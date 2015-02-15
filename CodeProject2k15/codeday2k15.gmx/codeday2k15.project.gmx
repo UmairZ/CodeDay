@@ -20,6 +20,7 @@
     <object>objects\obj_enemy_grunt</object>
     <object>objects\obj_enemy_kamakazi</object>
     <object>objects\obj_enemy_mothership</object>
+    <object>objects\obj_enemy_tank</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
