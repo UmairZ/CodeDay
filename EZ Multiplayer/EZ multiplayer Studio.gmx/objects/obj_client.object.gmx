@@ -35,7 +35,7 @@ else
     show_message("Could not connect");
 }
 
-instance_create(100,10,obj_player);
+instance_create(100, 10, obj_player);
 
 time = 0;
 ping = 0;
@@ -69,6 +69,7 @@ net_client_send(2,3,NET_STRING,"hello","my","name");
 
 if (keyboard_check(vk_up)){
     net_client_send(3,1,NET_STRING, "up");
+    
 } else {
     net_client_send(3,1,NET_STRING, "stop");
 }

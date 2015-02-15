@@ -25,7 +25,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (string(net_client_get(3,1)) == string("up")){
+            <string>net_client_update();
+
+if (string(net_client_get(3,1)) == string("up")){
     y -= 5;
 } else {
     y -= 0;

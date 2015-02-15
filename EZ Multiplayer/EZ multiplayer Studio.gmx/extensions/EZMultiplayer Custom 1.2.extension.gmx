@@ -39,7 +39,7 @@
         <function>
           <name>net_init</name>
           <externalName>net_init</externalName>
-          <kind>2</kind>
+          <kind>11</kind>
           <help>net_init(dll, studio)</help>
           <returnType>2</returnType>
           <argCount>-1</argCount>
@@ -48,7 +48,7 @@
         <function>
           <name>net_server_start</name>
           <externalName>net_server_start</externalName>
-          <kind>2</kind>
+          <kind>11</kind>
           <help>net_server_start(port, maxplayers)</help>
           <returnType>2</returnType>
           <argCount>-1</argCount>
@@ -57,7 +57,7 @@
         <function>
           <name>net_server_update</name>
           <externalName>net_server_update</externalName>
-          <kind>2</kind>
+          <kind>11</kind>
           <help>net_server_update()</help>
           <returnType>2</returnType>
           <argCount>-1</argCount>
