@@ -5,10 +5,22 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_bullet</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <objects name="objects"/>
+  <scripts name="scripts">
+    <script>scripts\nearestPlayerMadeObject.gml</script>
+    <script>scripts\script_nearest_enemy_obj.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\obj_bullet</object>
+    <object>objects\obj_player</object>
+    <object>objects\obj_enemy_grunt</object>
+    <object>objects\obj_enemy_kamakazi</object>
+    <object>objects\obj_enemy_mothership</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>
