@@ -5,22 +5,12 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites">
-    <sprite>sprites\spr_asteroid1</sprite>
-  </sprites>
+  <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\script_nearest_enemy_obj.gml</script>
-  </scripts>
-  <objects name="objects">
-    <object>objects\obj_asteroid1</object>
-    <object>objects\obj_bullet_parent</object>
-    <object>objects\obj_parent_weap</object>
-    <object>objects\obj_player</object>
-  </objects>
+  <objects name="objects"/>
   <rooms name="rooms">
-    <room>rooms\room_game</room>
+    <room>rooms\room0</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
