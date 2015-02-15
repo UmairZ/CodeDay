@@ -35,7 +35,7 @@ else
     show_message("Could not connect");
 }
 
-instance_create(0,0,obj_player);
+instance_create(10,10,obj_player);
 
 time = 0;
 ping = 0;
