@@ -9,6 +9,7 @@
     <sprite>sprites\spr_planet</sprite>
     <sprite>sprites\spr_enemyplanet</sprite>
     <sprite>sprites\spr_otherplanet</sprite>
+    <sprite>sprites\spr_health_bar</sprite>
     <sprite>sprites\sprite11</sprite>
     <sprite>sprites\spr_arm</sprite>
     <sprites name="playerSprites">

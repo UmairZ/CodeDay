@@ -41,6 +41,8 @@ global.yo=0;
 view_rotate=1;
 instance_create(x,y,player_handR);
 instance_create(x,y,player_handL);
+
+hp = 100
 </string>
           </argument>
         </arguments>
@@ -85,6 +87,87 @@ else
     image_speed=0.3;
     sprite_index=spr_run;
     }
+    
+if (hp = 100) {
+    image_index = 0
+}
+if (hp = 96) {
+    image_index = 1
+}
+if (hp = 92) {
+    image_index = 2
+}
+if (hp = 88) {
+    image_index = 3
+}
+if (hp = 84) {
+    image_index = 4
+}
+if (hp = 80) {
+    image_index = 5
+}
+if (hp = 76) {
+    image_index = 6
+}
+if (hp = 72) {
+    image_index = 7
+}
+if (hp = 68) {
+    image_index = 8
+}
+if (hp = 64) {
+    image_index = 9
+}
+if (hp = 60) {
+    image_index = 10
+}
+if (hp = 56) {
+    image_index = 11
+}
+if (hp = 52) {
+    image_index = 12
+}
+if (hp = 48) {
+    image_index = 13
+}
+if (hp = 44) {
+    image_index = 14
+}
+if (hp = 40) {
+    image_index = 15
+}
+if (hp = 36) {
+    image_index = 16
+}
+if (hp = 32) {
+    image_index = 17
+}
+if (hp = 28) {
+    image_index = 18
+}
+if (hp = 24) {
+    image_index = 19
+}
+if (hp = 20) {
+    image_index = 20
+}
+if (hp = 16) {
+    image_index = 21
+}
+if (hp = 12) {
+    image_index = 22
+}
+if (hp = 8) {
+    image_index = 23
+}
+
+if (hp = 4) {
+    image_index = 24
+}
+
+if (hp = 0) {
+    image_index = 25
+}
 </string>
           </argument>
         </arguments>
